@@ -9,5 +9,9 @@
 
 💙 Follow me on github to see more projects like this. 
 
+Thanks to :
+- [vaibhavtomar04](https://github.com/vaibhavtomar04/portfolio)
+- [bradfrost](https://github.com/bradfrost/project-hub)
+
 ![preview img](/preview.png)
 
